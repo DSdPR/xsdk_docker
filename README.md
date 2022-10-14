@@ -2,7 +2,7 @@
 Xilinx SDK in a Ubuntu Docker, for those who have trouble with the native Windows/Mac OS versions
 
 ## Requirements
-- X11 Server (VCXServer for instance)
+- X11 Server (vcxsrv for instance)
 - Docker
 - WSL2
 - Valid Xilinx Account and SDK installer for Linux
